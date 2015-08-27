@@ -22,7 +22,7 @@ public class ExactChange {
 	public static void main (String [] ags){
 	double amountowed, amountgiven, change, changetype, dollaholder, topdolla = 0, dollalevel = 0 ;
 	int count, dollar20, dollar10 = 0, dollar5 = 0, dollar1 = 0, cent25 = 0, cent10 =0 , cent5 = 0, cent1 = 0;
-	System.out.print("enter amount owed: ");
+	System.out.print("enter amount owed booglahbooglah: ");
 	
 	
 	amountowed = IO.readDouble();
